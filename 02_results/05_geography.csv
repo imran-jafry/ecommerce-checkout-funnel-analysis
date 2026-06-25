@@ -1,0 +1,102 @@
+country,total_sessions,transactions,conversion_rate_pct,revenue_usd
+United States,364744,11440,3.14,1452440.65
+Canada,25869,199,0.77,32824.54
+Venezuela,2132,153,7.18,13374.9
+Japan,19731,18,0.09,6728.99
+Kenya,771,3,0.39,5268.7
+Nigeria,1446,2,0.14,3302.4
+Taiwan,12996,19,0.15,1920.89
+Indonesia,9273,18,0.19,1840.38
+Australia,12698,13,0.1,1745.26
+United Kingdom,37393,19,0.05,1689.45
+Mexico,13225,20,0.15,1592.79
+Hong Kong,4718,9,0.19,1467.96
+Puerto Rico,732,11,1.5,1202.84
+Belgium,4442,5,0.11,992.05
+Singapore,7172,11,0.15,843.02
+(not set),1468,6,0.41,769.78
+South Korea,5237,8,0.15,745.71
+India,51140,10,0.02,696.66
+Ecuador,1251,4,0.32,674.93
+Brazil,19783,10,0.05,641.83
+Israel,5563,6,0.11,619.6
+Colombia,4880,8,0.16,604.87
+Switzerland,4427,9,0.2,595.82
+Germany,19980,8,0.04,549.34
+Malaysia,6439,3,0.05,471.85
+Ukraine,5577,5,0.09,467.52
+Thailand,20123,5,0.02,462.71
+France,15832,5,0.03,446.08
+Spain,11658,2,0.02,384.79
+United Arab Emirates,3144,3,0.1,370.06
+Saudi Arabia,3132,3,0.1,265.08
+Argentina,5037,5,0.1,262.44
+Netherlands,11453,3,0.03,259.05
+Chile,1950,5,0.26,247.26
+Kuwait,521,2,0.38,238.22
+Poland,9693,3,0.03,230
+Portugal,2376,1,0.04,215.8
+China,3881,6,0.15,211.67
+Italy,11332,2,0.02,204.09
+Greece,3370,3,0.09,159.33
+Ireland,6493,6,0.09,144.86
+Philippines,9244,3,0.03,138.03
+Peru,5546,2,0.04,127.58
+Panama,476,2,0.42,111.73
+Turkey,20522,2,0.01,102.41
+Russia,11662,4,0.03,94.94
+El Salvador,393,1,0.25,76.89
+Romania,6428,1,0.02,75.96
+Sweden,5315,3,0.06,75.59
+Cyprus,463,1,0.22,75.44
+South Africa,2099,2,0.1,65.7
+Guatemala,581,2,0.34,60.15
+Finland,959,2,0.21,58.98
+Pakistan,4010,1,0.02,57.95
+Egypt,2343,1,0.04,50.96
+New Zealand,2194,1,0.05,47.97
+Czechia,4247,1,0.02,44.79
+Lebanon,398,1,0.25,40.77
+Georgia,888,2,0.23,38.98
+Kazakhstan,968,2,0.21,34.98
+Hungary,2513,1,0.04,33.59
+Armenia,280,1,0.36,30.48
+Denmark,3319,1,0.03,25
+Uruguay,627,1,0.16,3.5
+Norway,2250,0,0,
+Costa Rica,554,0,0,
+Lithuania,848,0,0,
+Tanzania,260,0,0,
+Qatar,535,0,0,
+Belarus,976,0,0,
+Dominican Republic,934,0,0,
+Bosnia & Herzegovina,903,0,0,
+Austria,2796,0,0,
+Algeria,2055,0,0,
+Estonia,656,0,0,
+Nepal,211,0,0,
+Latvia,705,0,0,
+Vietnam,24598,0,0,
+Bulgaria,2046,0,0,
+Croatia,1396,0,0,
+Morocco,1907,0,0,
+Cambodia,522,0,0,
+Slovenia,729,0,0,
+Ghana,381,0,0,
+Côte d’Ivoire,320,0,0,
+Bangladesh,2297,0,0,
+Iraq,711,0,0,
+Kosovo,435,0,0,
+Albania,547,0,0,
+Serbia,1872,0,0,
+Bolivia,318,0,0,
+Tunisia,1194,0,0,
+Macedonia (FYROM),846,0,0,
+Sri Lanka,1468,0,0,
+Bahrain,256,0,0,
+Jordan,859,0,0,
+Oman,305,0,0,
+Moldova,319,0,0,
+Azerbaijan,569,0,0,
+Slovakia,1788,0,0,
+Mongolia,241,0,0,
