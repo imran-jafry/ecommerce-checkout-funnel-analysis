@@ -162,12 +162,12 @@ This section reflects real analytical work on a real dataset. Production data is
 ```
 ecommerce-checkout-funnel-analysis/
 │
-├── README.md
+|
 │
-├── queries/
+├── 01_queries/
 │   └── all_queries.sql
 │
-├── results/
+├── 02_results/
 │   ├── 01_funnel_overview.csv
 │   ├── 02_device_performance.csv
 │   ├── 03_traffic_source.csv
@@ -176,20 +176,22 @@ ecommerce-checkout-funnel-analysis/
 │   ├── 06_opportunity_summary.csv
 │   └── 07_headline_kpis.csv
 │
-├── dashboard/
-│   └── ecommerce_funnel_dashboard.pbix
 │
-└── screenshots/
+└── 03_screenshots/
     ├── dashboard_overview.png
     ├── bigquery_funnel_query.png
     └── funnel_closeup.png
-```
+|
+|__ 04_dashboard/
+|    |__ecommerce_funnel_dashboard.pbix
+|
+|___README.md
 
----
+'''
+...
 
-## created by
-
-**Mohd Imran**
+## Author
+*Mohd Imran**
 Data and Product Analyst
 
 Connect with me on LinkedIn: [www.linkedin.com/in/mohd-imran-55348a325]
