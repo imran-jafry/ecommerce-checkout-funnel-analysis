@@ -1,0 +1,5 @@
+funnel_step,step_order,users,pct_of_top,dropoff_rate,revenue_lost_usd
+Step 1 - Product View,1,99256,100.0,59.88,7555885.68
+Step 2 - Add to Cart,2,39817,40.12,54.09,2737783.44
+Step 3 - Checkout Started,3,18280,18.42,45.18,1049756.96
+Step 4 - Purchase Complete,4,10022,10.1,,
