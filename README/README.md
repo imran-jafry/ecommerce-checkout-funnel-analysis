@@ -192,7 +192,7 @@ This section reflects real analytical work on a real dataset. Production data is
 
 ## Dashboard Preview
 
-![Dashboard](03_screenshots/dashboard.png)
+![Dashboard](../03_screenshots/dashboard.png)
 
 ---
 
