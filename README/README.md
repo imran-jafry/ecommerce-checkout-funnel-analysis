@@ -22,7 +22,8 @@ This project analyzes the checkout funnel of the Google Merchandise Store to ide
 | Google Analytics Sample Dataset | Real e-commerce clickstream data                    |
 | Power BI                        | Interactive dashboard creation                      |
 | SQL                             | Funnel construction, segmentation, window functions |
-
+| Advanced Excel | Funnel pivot analysis, device comparison, 
+executive summary dashboard, conditional formatting |
 ---
 
 ## Dataset
@@ -125,6 +126,37 @@ Restructure affiliate commission model to reward completed purchases rather than
 Implement mobile-optimized checkout with Google Pay and local digital wallet integrations. Conduct a full mobile UX audit focusing on form field sizing, button tap targets, and checkout step count reduction.
 
 ---
+---
+
+## Excel Analysis
+
+A three-sheet Excel workbook was built to demonstrate 
+data analysis and presentation skills.
+
+**File:** `excel/funnel_analysis.xlsx`
+
+### Sheet 1 — Funnel Analysis
+- Imported funnel data from BigQuery results
+- Applied conditional formatting — red for high drop-off
+- Built clustered bar chart showing user drop-off by step
+- Key finding: 45.18% drop-off at checkout initiation
+
+### Sheet 2 — Device Performance
+- Comparison table of desktop vs mobile vs tablet
+- Conditional formatting heatmap on conversion rates
+- Column chart showing 4x mobile conversion gap
+- Key insight: Mobile drives 23% of traffic but only 
+  3.2% of revenue — a 7x revenue imbalance
+
+### Sheet 3 — Executive Summary
+- One-page business summary for non-technical stakeholders
+- 5 KPI cards: Sessions, Transactions, Conversion Rate, 
+  Revenue, AOV
+- Key findings with color-coded priority recommendations
+- Priority 1: $1,049,756 checkout abandonment opportunity
+- Priority 2: $283,109 affiliate traffic quality fix
+- Priority 3: $156,484 mobile UX overhaul
+ ---
 
 ## Data Challenges and Solutions
 
@@ -149,6 +181,13 @@ This section reflects real analytical work on a real dataset. Production data is
 - COUNT DISTINCT for accurate unique user counts
 - Subqueries for multi-step calculations
 
+---
+## Excel Skills Demonstrated
+- Data import from CSV using Power Query
+- Conditional formatting with color scales and data bars
+- Pivot table analysis
+- Chart creation with custom formatting
+- Executive summary design for stakeholder presentation
 ---
 
 ## Dashboard Preview
@@ -186,6 +225,8 @@ ecommerce-checkout-funnel-analysis/
 |    |__ecommerce_funnel_dashboard.pbix
 |
 |___README.md
+├── excel/
+│   └── funnel_analysis.xlsx
 
 '''
 ...
